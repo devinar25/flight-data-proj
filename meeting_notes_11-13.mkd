@@ -1,0 +1,18 @@
+# Things to work on moving forward:
+
+
+variation/fluctuation in pricing for same routes?
+	analyze different distributions and equate best fit
+
+lock in on: how is this useful?
+	use case scenarios: frequent fliers? when to buy your ticket (e.g what quarter is best to buy?)
+
+error analysis - are different attributes easier or harder to predict?
+
+work on general summarizations of all visuals
+
+consider outliers - are they important?
+
+think big picutre throughout - lessons learned. 
+
+We should be in a good spot right now, just elaborate more on what we have
